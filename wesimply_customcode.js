@@ -10,6 +10,6 @@ links.forEach((link) => {
         e.preventDefault ();
         let destination = this.href;
 
-        console.log(destination)
-    })
-})
+        console.log(destination);
+    });
+});
