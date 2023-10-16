@@ -32,7 +32,7 @@ links.forEach((link) => {
                     from: "random",
 
             },
-            onComplete: () ==> {
+            onComplete: () => {
                 window.location = destination
             }
         }
