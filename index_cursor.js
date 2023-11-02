@@ -1,4 +1,4 @@
-import { GooCursor } from './cursor.js';
+import { GooCursor } from 'https://cdn.jsdelivr.net/gh/imperatorm/wesimply_imports@77d68a7970775106a906a509297306fafc8e2183/cursor.js';
 
 const cursorEl = document.querySelector('.cursor');
 
